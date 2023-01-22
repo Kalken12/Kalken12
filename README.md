@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalken12" alt="kalken12" /></a> </p>
 
-- 🔭 I’m recently worked on [Clone Deyga.in, clone beutybebo.com, clone yoox.com](https://github.com/Kalken12/Clone_Deyga , https://github.com/Kalken12/CloneBeautyBebo , https://github.com/Kalken12/cloneYooxUnit3)
+- 🔭 I have worked on [Clone Deyga.in, clone beutybebo.com, clone yoox.com](https://github.com/Kalken12/Clone_Deyga , https://github.com/Kalken12/CloneBeautyBebo , https://github.com/Kalken12/cloneYooxUnit3)
 
-- 🌱 I’m currently learning **React.js,Node.js,Mongo.db**
+- 🌱 I’m currently learning **React.js(Redux) ,Node.js,Mongo.db**
 
 - 👯 I’m looking to collaborate on [Hills hack](https://github.com/Kalken12/website)
 
